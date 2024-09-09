@@ -4,7 +4,7 @@
 #' @param PDSOC Plant-derived soil organic carbon inputs (g/m2).
 #' @param DDSOC Dung-derived soil organic carbon inputs (g/m2).
 #' @param wetdays Number of days wet enough to support soil microbial respiration (days).
-#' @param SAND Sand fraction in the top 30 cm of soil (0 - 1).
+#' @param SAND Sand fraction in the top 40 cm of soil (0 - 1).
 #' @export
 
 calc_SOCeq = function(PDSOC, DDSOC, wetdays, SAND) {

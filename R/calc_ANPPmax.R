@@ -2,7 +2,7 @@
 #'
 #' @description Calculation of the parameter ANPPmax, the maximum potential grass production for a given site, from Ritchie 2014.
 #' @param RAIN Mean annual precipitation (mm/year).
-#' @param SAND Sand fraction in the top 30 cm of soil (0 - 1).
+#' @param SAND Sand fraction in the top 40 cm of soil (0 - 1).
 #' @export
 
 calc_ANPPmax = function(RAIN, SAND) {
