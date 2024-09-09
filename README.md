@@ -1,2 +1,2 @@
 # SNAPr
-R package implementation of SNAP model by Ritchie 2014
+R package implementation of SNAP model by Ritchie 2014.
