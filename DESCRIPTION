@@ -1,0 +1,12 @@
+Package: SNAPr
+Title: A model for simulating the impacts of grazing on SOC stocks and stock changes
+Version: 0.1.0
+Authors@R: 
+    person("Jacob", "Penner", , "jacob.penner@tnc.org", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0001-9578-4458"))
+Description: R implementation of the SNAP model first published by Ritchie 2014 to simulate the impacts of grazing, climate, soil, and vegetation parameters on SOC stocks and stock changes.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+URL: https://github.com/jpjazzcat/SNAPr
